@@ -1,0 +1,11 @@
+.Card{
+    position: relative;
+    position: fixed;
+    left: 60xp;
+    border: 5px hidden ;
+    padding:  30px 20px ;
+    border-radius: 30px;
+    background-color: rgb(45, 45, 128);
+    
+  
+}
